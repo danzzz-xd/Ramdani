@@ -1,7 +1,7 @@
 {
-  "name": "Putbotz",
-  "version": "1.1.2",
-  "description": "©Herman Botz",
+  "name": "Alitabotz",
+  "version": "1.0.0",
+  "description": "©Ramdani Botz",
   "main": "index.js",
   "directories": {
     "lib": "lib",
